@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+  
+}
+.center {
+  width: 30%;
+  margin: auto;
+  display: block;
+}
+
+.wolf {
+  width: 30%;
+  margin: auto;
+  display: block;
+}
